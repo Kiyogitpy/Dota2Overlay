@@ -3,5 +3,5 @@ Need to enable -gamestateintegration in dota2 properties to function.
 Discord@ kiyoqt
 
 ![
-(https://github.com/Kiyogitpy/Dota2Overlay/blob/main/readmegif.gif)
 ]
+(https://github.com/Kiyogitpy/Dota2Overlay/blob/main/readmegif.gif)
